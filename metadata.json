@@ -1,0 +1,8 @@
+{
+  "name": "Pandora",
+  "description": "A powerful sandbox for compiling and deploying smart contracts and KRC-20 tokens on Kaspa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
